@@ -1,0 +1,228 @@
+﻿Code;Name;TR;Rot;Gelb;Grün
+13x;Reanimation;;;;
+131;Reanimation, laufend / intermittierend;1;X;;
+132;Reanimation ROSC;1;X;;
+133;Reanimation bei Trauma, laufend / intermittierend;1;X;;
+134;Reanimation Hypothermie;1;X;;
+14x;ECMO;;;;
+140;vvECMO Zuverlegung;12;X;X;
+141;vvECMO Abholung;12;X;X;
+142;vaECMO Zuverlegung;12;X;X;
+143;vaECMO Abholung;12;X;X;
+144;eCPR Zuverlegung;1;X;;
+145;eCPR Abholung;1;X;;
+2x;Verletzungen / Unfälle ▶ 21x Mehrfach;;;;
+211;Trauma Schockraum A mit SHT;1;X;;
+212;Trauma Schockraum A ohne SHT;1;X;;
+213;Trauma Schockraum B;1;X;;
+214;Mehrfachverletzung sonstige;12;X;X;
+215;Mehrfachverletzung mit Augen;12;X;X;
+219;oberflächliche Verletzung (bel. Lokalisation);3;;;X
+2x;Verletzungen / Unfälle ▶ 22x Gesicht / Kopf;;;;
+221;SHT offen;12;X;X;
+222;SHT geschlossen;123;X;X;X
+223;Gesichtsverletzung;123;X;X;X
+224;Kopfverletzung;123;X;X;X
+225;Augenverletzung;123;X;X;X
+2x;Verletzungen / Unfälle ▶ 23x Thorax;;;;
+231;Thorax penetrierend;12;X;X;
+232;Thorax geschlossen / stumpf;123;X;X;X
+233;Pneumothorax (traumatisch);12;X;X;
+2x;Verletzungen / Unfälle ▶ 24x Abdomen;;;;
+241;Abdomen penetrierend;12;X;X;
+242;Abdomen geschlossen / stumpf;123;X;X;X
+243;Akutes Abdomen (nicht traumatisch);12;X;X;
+2x;Verletzungen / Unfälle ▶ 25x Wirbelsäule;;;;
+251;Verl. der Wirbelsäule mit neurologischen Ausfällen;12;X;X;
+252;Verl. der Wirbelsäule ohne neurologischen Ausfälle;23;;X;X
+253;Rückenschmerzen, akut mit neurolog. Symptomatik;12;X;X;
+254;Rückenschmerzen, nicht traumatisch ohne neurologische Ausfälle;23;;X;X
+255;Lähmung / Querschnitt akut (nicht Stroke);12;X;X;
+2x;Verletzungen / Unfälle ▶ 26x Becken;;;;
+261;Becken offen;12;X;X;
+262;Becken geschlossen;123;X;X;X
+263;Urogenitaltrauma (isoliert);123;X;X;X
+2x;Verletzungen / Unfälle ▶ 27x Extremitäten / Prellungen / Luxationen;;;;
+271;Fraktur Extremitäten offen;12;X;X;
+272;Fraktur Extremitäten geschlossen;123;X;X;X
+273;Hüft - / Schenkelhalsfraktur;23;;X;X
+274;Verl. der Extremitäten mit Gefäß - / Nervenverl.;123;X;X;X
+2x;Verletzungen / Unfälle ▶ 27x Hand;;;;
+275;Handverletzung;123;X;X;X
+276;Finger Amputation;12;X;X;
+277;Hand - / Extremitäten Amputation;12;X;X;
+2x;Verletzungen / Unfälle ▶ 27x Extremitäten / Prellungen / Luxationen;;;;
+279;Sonstige Extremitätenverletzung;123;X;X;X
+2x;Verletzungen / Unfälle ▶ 28x Physikalisch / Chemisch;;;;
+281;Verbrennung / Verbrühung;123;X;X;X
+282;Verätzung;123;X;X;X
+283;Hochspannungstrauma (ab 1000 V ~);12;X;X;
+284;Barotrauma / Tauchunfall / Dekompressionskrankheit;123;X;X;X
+285;Strahlentrauma;123;X;X;X
+286;Hitzeerschöpfung / Hitzschlag;123;X;X;X
+287;Unterkühlung / Erfrierung;123;X;X;X
+288;(Beinahe - ) Ertrinken / Badeunfall;123;X;X;X
+2x;Verletzungen / Unfälle ▶ 29x Gefäß;;;;
+291;Aortenaneurysma;12;X;X;
+292;Extremitätenischaemie (akut);12;X;X;
+293;Aorta ascendens Dissektion (bestätigt);12;X;X;
+299;Gefäßchirurgischer Notfall, sonstiger;23;;X;X
+3x;Erkrankungen ▶ 31x Atmung / Lunge;;;;
+311;Atemnot (unklar) / Atembeschwerden / ARI;123;X;X;X
+312;Obstruktion (Asthma / COPD);123;X;X;X
+313;Hämoptoe / Hämoptysen;123;X;X;X
+314;(Bolus - ) Aspiration;123;X;X;X
+315;Bronchitis / Pneumonie;123;X;X;X
+316;Hyperventilation;23;;X;X
+317;Lungenödem (nicht kardial);123;X;X;X
+318;Spontanpneumothorax;123;X;X;X
+319;Pneumologischer Notfall, sonstiger;23;;X;X
+3x;Erkrankungen ▶ 32x Innere (sonstige);;;;
+321;Anaphylaxie / Unverträglichkeitsreaktion;123;X;X;X
+322;Synkope / Kollaps;123;X;X;X
+323;Hypotonie;123;X;X;X
+324;Thrombose;123;X;X;X
+325;unklares Fieber;123;X;X;X
+326;Exsikkose;123;X;X;X
+329;Internistischer Notfall, sonstiger;23;;X;X
+3x;Erkrankungen ▶ 33x Brustschmerz;;;;
+331;unklarer Brust - / Thoraxschmerz;23;;X;X
+332;"STEMI / ""OMI""";1;X;;
+333;NSTEMI, instabile AP;123;X;X;X
+3x;Erkrankungen ▶ 34x Herz - Kreislauf;;;;
+341;Arrhythmie;123;X;X;X
+342;Bradykardie;123;X;X;X
+343;Tachykardie;123;X;X;X
+344;Elektrounfall (bis 1000 V~);123;X;X;X
+345;Hypertensiver Notfall / Krise;123;X;X;X
+346;Kardiogener Schock;12;X;X;
+347;Herzinsuffizienz;123;X;X;X
+348;Lungenembolie;123;X;X;X
+349;Kardiologischer Notfall, sonstiger;23;;X;X
+3x;Erkrankungen ▶ 35x Abdomen;;;;
+351;Obere GI-Blutung;123;X;X;X
+352;Untere GI-Blutung;123;X;X;X
+353;Bauchschmerzen;23;;X;X
+354;Gastroenteritis;123;X;X;X
+359;Gastroenterologischer Notfall, sonstiger;23;;X;X
+3x;Erkrankungen ▶ 36x Intoxikationen;;;;
+360;Intoxikation Rauchgas/Reizgas (nicht CO);123;X;X;X
+361;Intoxikation Alkohol;123;X;X;X
+362;Intoxikation Drogen/Rauschgift;123;X;X;X
+363;sonstige Intoxikation;123;X;X;X
+364;Intoxikation Lebensmittel;123;X;X;X
+365;Intoxikation Medikamente;123;X;X;X
+366;Intoxikation Pflanzenschutzmittel;123;X;X;X
+367;Intoxikation tierische Gifte;123;X;X;X
+368;Intoxikation Giftpflanzen;123;X;X;X
+369;inhalative Intoxikation, sonstige;23;;X;X
+370;Kohlenmonoxid - Vergiftung;123;X;X;X
+3x;Erkrankungen ▶ 37x spezielle Infektionen;;;;
+371;Meningitis / Enzephalitis;123;X;X;X
+372;TBC;123;X;X;X
+373;Sepsis (Infekt qSOFA mind. 2);12;X;X;
+374;Septischer Schock;1;X;;
+375;hochkontagiöse Erkrankung (Sonder-ISO);1;X;;
+376;Covid-19-SARS - CoV 2 (bestätigt);12;X;X;
+377;Covid-19-SARS - CoV 2 (nicht bestätigt);123;X;X;X
+378;SARS-CoV 2 zur Quarantäne - aktuelle Infektionskrankheit zur Quarantän;2;;X;
+379;Infektiologischer Notfall, sonstiger;23;;X;X
+3x;Erkrankungen ▶ 39x sonstige;;;;
+391;Akuter endokrinologischer Notfall;123;X;X;X
+392;Hyperglykämie;123;X;X;X
+393;Hypoglykämie;123;X;X;X
+4x;spezielle Erkrankung / Verletzung ▶ 41x Neurologisch;;;;
+411;anhaltender epileptischer Anfall;1;X;;
+412;Epileptischer Anfall (stattgehabt);123;X;X;X
+413;Kopf - / Gesichtsschmerz (bei SK 1 NC!);123;X;X;X
+414;Vigilanzminderung / Koma (ohne Trauma);123;X;X;X
+415;Schwindel;123;X;X;X
+419;Neurologischer Notfall, sonstiger;23;;X;X
+4x;spezielle Erkrankung / Verletzung ▶ 42x Neurologisch;;;;
+421;Schlaganfall / Blutung: < 24h oder unklar;12;X;X;
+423;Schlaganfall / Blutung: > 24h;123;X;X;X
+425;diagnostizierter Cerebraler Gefäßverschluss zur Thrombektomie;1;X;;
+4x;spezielle Erkrankung / Verletzung ▶ 43x Psychiatrie;;;;
+431;Suizid, angedroht;2;;X;
+432;Einweisung, psychiatrische;2;;X;
+433;Einweisung (nach LandesPsychKG);2;;X;
+434;Einweisung (nach LandesPsychKG) mit Fixierung;2;;X;
+435;Akute Verwirrtheit / Delir;123;X;X;X
+51x;Pädiatrisch;;;;
+511;pädiatrisch - Atemnot;123;X;X;X
+512;schwerer Husten (Pseudokrupp);123;X;X;X
+513;pädiatrisch - Fieberkrampf;123;X;X;X
+519;Pädiatrischer Notfall, sonstiger;23;;X;X
+52x ;Schwangerschaft / Geburtshilfe ▶ 52x präklinische Geburt;;;;
+521;< 16 SSW;12;X;X;
+522;16+0 SSW bis 21+6 SSW;12;X;X;
+523;22+0 SSW bis 28+6 SSW;12;X;X;
+524;29+0 SSW bis 31+6 SSW;12;X;X;
+525;32+0 SSW bis 35+6 SSW und jede Wachstumsstörung des Feten;12;X;X;
+526;ab 36+0 SSW;12;X;X;
+527;ab 36+0 SSW bei Diabetes;12;X;X;
+528;Drillinge bis 32+6 SSW, alle über 3 Mehrlinge;12;X;X;
+529;Drillinge ab 33+0 SSW;12;X;X;
+53x;55x Schwangerschaft / Geburtshilfe ▶ 53x einsetzende Geburt;;;;
+530;akute fetale Gefährdung, Erstversorgung ggf. in ungeeigneter Klinik;1;X;;
+531;< 16 SSW;1;X;;
+532;16+0 SSW bis 21+6 SSW;1;X;;
+533;22+0 SSW bis 28+6 SSW;1;X;;
+534;29+0 SSW bis 31+6 SSW;1;X;;
+535;32+0 SSW bis 35+6 SSW und jede Wachstumsstörung des Feten;1;X;;
+536;ab 36+0 SSW;12;X;X;
+537;ab 36+0 SSW bei Diabetes;12;X;X;
+538;Drillinge bis 32+6 SSW, alle über 3 Mehrlinge;12;X;X;
+539;Drillinge ab 33+0 SSW;12;X;X;
+54x;Schwangerschaft / Geburtshilfe ▶ 54x Notfall in der Schwangerschaft;;;;
+540;akute fetale Gefährdung, Erstversorgung ggf. in ungeeigneter Klinik;1;X;;
+541;< 16 SSW;12;X;X;
+542;16+0 SSW bis 21+6 SSW;12;X;X;
+543;22+0 SSW bis 28+6 SSW;12;X;X;
+544;29+0 SSW bis 31+6 SSW;12;X;X;
+545;32+0 SSW bis 35+6 SSW und jede Wachstumsstörung des Feten;12;X;X;
+546;ab 36+0 SSW;12;X;X;
+547;ab 36+0 SSW bei Diabetes;12;X;X;
+548;Drillinge bis 32+6 SSW, alle über 3 Mehrlinge;12;X;X;
+549;Drillinge ab 33+0 SSW;12;X;X;
+55x;Schwangerschaft / Geburtshilfe ▶ 55x spezielle Erkrankungen / Verletzungen Gynäkologisch;;;;
+551;vaginale Blutung;123;X;X;X
+552;Unterbauchschmerzen;123;X;X;X
+553;Sexualdelikt;123;X;X;X
+559;Gynäkologischer Notfall, sonstiger;23;;X;X
+60x;Sonstige Einsätze und Transporte;;;;
+601;Transport zu definierten Leistungen;123;X;X;X
+602;Transport zu geplanter Dialyse;123;X;X;X
+603;Transport zu geplantem Herzkatheter;123;X;X;X
+604;Transport zu geplantem CT;123;X;X;X
+605;Transport zu geplantem MRT;123;X;X;X
+70x;Haut- und Geschlechtserkrankungen;;;;
+701;Haut - und Geschlechtskrankheiten;23;;X;X
+71x;Urologie;;;;
+711;Nieren - Harnleiterkolik;123;X;X;X
+712;Hodenschmerz;123;X;X;X
+713;Harnverhalt (akut);123;X;X;X
+714;Hämaturie;123;X;X;X
+715;Katheterwechsel (transurethral);3;;;X
+716;Katheterwechsel (suprapubisch);3;;;X
+717;Katheterverlust / - verstopfung;23;;X;X
+718;Harnwegsinfekt;123;X;X;X
+719;Urologischer Notfall, sonstiger;23;;X;X
+72x;Augenheilkunde;;;;
+721;akute Augenerkrankung;123;X;X;X
+729;Augennotfall, sonstiger;23;;X;X
+73x;sonstige HNO Notfälle;;;;
+731;Nasenbluten (Epistaxis) unstillbar;123;X;X;X
+732;(nach) Blutung, HNO, akut;123;X;X;X
+733;Tracheostoma - Komplikation;123;X;X;X
+739;HNO Notfall Sonstiger;23;;X;X
+74x; Mund - Kiefer - Gesicht;;;;
+749;Mund - Kiefer - Gesicht - Notfall, sonstiger;23;;X;X
+75x;Geriatrie;;;;
+751;Geriatrische Einweisung;2;;X;
+77x;Notfallsituationen unbestimmt;;;;
+779;sonstige Notfallsituationen;23;;X;X
+80x;Allgemeinmedizin;;;;
+801;Schmerz / Schwellung Bewegungsapparat (nicht traumatisch);3;;;X
+802;Schwellung / Abszeß, sonstige Lokalisation;3;;;X
+809;Allgemeinmedizin, sonstiger Notfall;3;;;X
